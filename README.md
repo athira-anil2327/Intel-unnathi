@@ -55,4 +55,4 @@ The included `visualize_and_evaluate` function provides a side-by-side compariso
 
 ## Results
 The implementation demonstrates a significant quantitative improvement in image quality. By combining L1 and SSIM losses, the model recovers high-frequency details that are typically lost in standard convolutional autoencoders.
-![Model Results](download(1).png)
+![Model Results](result.png)
